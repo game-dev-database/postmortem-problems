@@ -7,6 +7,10 @@
 * [List of Game Modes](modes.csv)
 * [List of Game Platform](platform.csv)
 
+## Related publications
+
+* [Arxiv](https://arxiv.org/abs/2001.00491)
+
 ## Context
 
 Different to traditional software development, there is little information about the software-engineering process and techniques in video-game development. One popular way to share knowledge among the video-game developers' community is the publishing of postmortems, which are documents summarizing what happened during the video-game development project. However, these documents are written without formal structure and often providing disparate information.
