@@ -1,7 +1,7 @@
 # Dataset of Video Game Development Problems
 
 * [Dataset CSV](dataset.csv)
-* [Catalog of Video Game Problems](catalog.csv)
+* [Catalogue of Video Game Problems](catalogue.csv)
 * [List of Postmortems](postmortems.csv)
 * [List of Game Genres](genres.csv)
 * [List of Game Modes](modes.csv)
@@ -9,7 +9,7 @@
 
 ## Related publications
 
-* [Arxiv](https://arxiv.org/abs/2001.00491)
+* [Dataset of Video Game Development Problems -- Arxiv](https://arxiv.org/abs/2001.00491)
 
 ## Context
 
@@ -27,5 +27,5 @@ Please, to provide:
 
 * A PDF of your source with your notes highlighted (`postmortems/`);
 * The issues you found on the dataset table (`dataset.csv`)
-* You can make a `pull request` with problems that are not on the catalog (`catalog.csv`);
+* You can make a `pull request` with problems that are not on the catalog (`catalogue.csv`);
 * You may also add more `genres`, `modes`, and `platforms`;

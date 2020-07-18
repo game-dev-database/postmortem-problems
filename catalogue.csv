@@ -1,0 +1,21 @@
+Group,Type,Description
+Production,Bugs,Bugs or failures that compromise the game development or its reception.
+Production,Design,"Game design problems, like balancing the gameplay, creating fun mechanics, etc."
+Production,Documentation,"Not documenting the code, artifacts or game plan."
+Production,Prototyping,Lack of or no prototyping phase nor validation of the gameplay/feature.
+Production,Technical,"Problems with code or assets, infra-structure, network, hardware, etc."
+Production,Testing,"Any problem regarding testing the game, like unit tests, playtesting, QA, etc."
+Production,Tools,"Problems with tools like Game Engines, libraries, etc."
+Management People,Communication,"Problems communicating with any stakeholder, team, publisher, audience, etc."
+Management People,Crunch Time,When developers continuously spent extra hours working in the project.
+Management People,Delays,Problems regarding any delay in the project.
+Management People,Team,"Problems in setting up the team, lost of professionals during the development or outsourcing."
+Management Feature,Cutting Features,Cutting features previously planned because some other factors like time or budget.
+Management Feature,Feature Creep,Adding non-planned new features to the game during its production.
+Management Feature,Multiple Projects,When there is more than one project being developed at the same time.
+Management Feature,Budget,"Lack of budget, funding, and any financial difficulties."
+Management Feature,Planning,"Problems involving planning and schedule, or lack of either."
+Management Feature,Security,Problems regarding leaked assets or information about the project.
+Management Feature,Scope,When the project is has too many features that end up impossible to implement it.
+Business,Marketing,Problems regarding marketing and advertising.
+Business,Monetization,Problems with the process used to generate revenue from a video game product.
