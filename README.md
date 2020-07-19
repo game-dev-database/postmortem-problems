@@ -6,6 +6,7 @@
 * [List of Game Genres](genres.csv)
 * [List of Game Modes](modes.csv)
 * [List of Game Platform](platform.csv)
+* [Raw data analysis (it is a mess there)](https://docs.google.com/spreadsheets/d/1my2J234AI3kt_H0GRQBxl-w1-h0mh5DqVbsmaVNwW9o/edit?usp=sharing)
 
 ## Related publications
 
